@@ -96,7 +96,6 @@ green-food-blockchain-platform/
 │   ├── 📄 需求分析.md               # → [需求分析文档](./docs/需求分析.md)
 │   ├── 📄 技术架构.md               # → [技术架构文档](./docs/技术架构.md)
 │   ├── 📄 API接口文档.md            # → [API接口文档](./docs/API接口文档.md)
-│   └── 📁 会议记录/                 # 团队会议记录
 ├── 📁 frontend/                     # 前端代码 (彭依娜)
 │   ├── 📁 src/
 │   ├── 📄 package.json
